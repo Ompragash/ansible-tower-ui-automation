@@ -1,6 +1,6 @@
 # Ansible Tower UI Automation
 
-This repository cotain scripts to automate Ansible Tower web UI.
+This repository contain scripts to automate Ansible Tower web UI.
 
 ## Requirements 
 
