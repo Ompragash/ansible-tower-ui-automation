@@ -9,4 +9,4 @@ This repository contain scripts to automate Ansible Tower web UI.
 
 ## Getting Started
 
-Modify tower.ini file with your Tower FQDN/IP, Username and Password.
+Modify tower.ini file with your Tower HostName/IP, Username and Password.
